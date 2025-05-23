@@ -1,0 +1,14 @@
+.movie-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 200px;
+  text-align: center;
+  background: #8612c4f1;
+}
+
+.movie-poster {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}

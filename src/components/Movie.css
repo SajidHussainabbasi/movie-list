@@ -1,0 +1,20 @@
+.movie-container {
+  text-align: center;
+  background-color: #32149fd5;
+  padding: 2rem;
+}
+
+.movie-search {
+  padding: 8px 12px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  width: 300px;
+  max-width: 90%;
+}
+
+.movie-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
